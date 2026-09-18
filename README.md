@@ -1,4 +1,4 @@
-# Biopoplar_spatial_transcriptome_analysis
+# Biopoplar spatial transcriptome analysis
 
 Scripts and computational workflows for spatial transcriptomics analysis of poplar 717 spatial transcriptome.
 
